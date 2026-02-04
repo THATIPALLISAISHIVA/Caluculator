@@ -20,7 +20,7 @@ A simple, responsive web-based calculator application built using vanilla HTML, 
 
 1. **Clone the Repository** (or download the files):
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/THATIPALLISAISHIVA/Caluculator.git
    ```
 2. **Open the Application**:
    - Navigate to the project folder.
@@ -40,11 +40,4 @@ A simple, responsive web-based calculator application built using vanilla HTML, 
 - `caluculator.js`: The JavaScript file handling the application logic.
 - `README.md`: Project documentation.
 
-## Future Improvements (Optional)
 
-- Add a division (`/`) operator.
-- Add keyboard support for input.
-- Implement a history feature to show previous calculations.
-
----
-*Created as a personal HTML/CSS/JS project.*
